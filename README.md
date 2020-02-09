@@ -17,8 +17,6 @@ Java sendiri memiliki lambang "kopi". Bahasa pemrograman tua ini ibarat kopi mer
 - Rasa: Kopi Jawa
 - Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
 
-![](.resources/codecoffee_java.png)
-
 ### Ruby: Bahasa pemrograman dari Jepang
 
 Ruby merupakan bahasa pemrograman yang berasal dari Negeri Sakura. Salah satu buah yang terkenal di Jepang adalah buah strawberry. Kami mencoba menggabungkan rasa strawberry dengan kopi lokal Indonesia.
