@@ -15,7 +15,7 @@ Java sendiri memiliki lambang "kopi". Bahasa pemrograman tua ini ibarat kopi mer
 
 - Fitur: Simple dan Khas Jawa
 - Rasa: Kopi Jawa
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VEWU1JqS6/?igshid=1qp0aha6qw0xa)
 
 ### Ruby: Bahasa pemrograman dari Jepang
 
@@ -23,7 +23,7 @@ Ruby merupakan bahasa pemrograman yang berasal dari Negeri Sakura. Salah satu bu
 
 - Fitur: Kopi dengan rasa strawberry
 - Rasa: Strawberry
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VE-coptrd/?igshid=12rovrtoomna2)
 
 ### Python: Bahasa pemrograman machine learning
 
@@ -31,7 +31,7 @@ Python sering digunakan untuk mengembangkan Artificial Intelligence, dimana memb
 
 - Fitur: Kopi dengan rasa jahe
 - Rasa: Jahe
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VD4y9JwfJ/?igshid=18lxau8ud07ux)
 
 ### Swift: Bahasa pemrograman modern kapitalis
 
@@ -39,7 +39,7 @@ Swift merupakan bahasa pemrograman original dari Apple. Saat ini bahasa pemrogra
 
 - Fitur: Kopi dengan rasa Apel
 - Rasa: Apel
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VFM3QJSuU/?igshid=s12bs8mg8xav)
 
 ### Go: Bahasa pemrograman unik
 
@@ -47,7 +47,7 @@ Go adalah bahasa pemrograman unik yang didevelop oleh Google. Powerful dan stric
 
 - Fitur: Kopi Spesial
 - Rasa: Spesial
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VEtu-pS7N/?igshid=qnjxlr83n4s9)
 
 ### JavaScript: Bahasa pemrograman fleksibel
 
@@ -55,4 +55,4 @@ Javascript adalah bahasa pemrograman yang paling banyak digunakan dimanapun. JS,
 
 - Fitur: Kopi Asisa
 - Rasa: Asisa
-- Harga: [Rp 15.000 / 100g](https://instagram.com/codecoffee_ind)
+- Harga: [Rp 15.000 / 100g](https://www.instagram.com/p/B8VDUqopVto/?igshid=15fks6vg7zbgy)
